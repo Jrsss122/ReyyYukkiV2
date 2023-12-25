@@ -1,7 +1,7 @@
 {
-    "name": "ReyyYukki ",
+    "name": "ZoroYukki ",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/6d9c1f5e4acb05d24e784.jpg",
+    "logo": "https://telegra.ph/file/d4bb8d4a4839cbb3f275a.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -93,7 +93,7 @@
       "formation": {
           "worker": {
               "quantity": 1,
-              "size": "free"
+              "size": "eco"
           }
       }
   }
